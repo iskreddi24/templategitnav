@@ -31,3 +31,11 @@ h1{
 .navbar li{
 	float: left;
 }
+.navbar a:visited
+{
+	background-color: goldenrod;
+}
+.navbar a:active
+{
+	background-color: grey;
+}
